@@ -1,10 +1,10 @@
 
 
-
-#Author : Rin
-#Discord : Rin#5535
-#Date : 13/06/2021
-
+"""
+Author : Rin
+Discord : Rin#5535
+Date : 12/06/2021
+"""
 
 
 #Print "Text"
